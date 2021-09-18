@@ -1,6 +1,6 @@
 ## Hello there!
 
-This is a github page to view all the various works of Peter Worwag throughout his CS studies.
+Welcome and enjoy your stay, please feel free to browse the below public projects.
 
 ### CSHU250 Projects <img src="https://freepikpsd.com/media/2019/11/github-logo-transparent-png-images-1.png" width="25" height="25" />
 
