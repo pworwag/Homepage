@@ -10,7 +10,7 @@ Various CSHU250 Projects
 - [Hello World Page](https://github.com/pworwag/hello-world)
 
 
-### CS 121 Projects <img src="https://cdn2.iconfinder.com/data/icons/computer-science-flat/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" />
+### <img src="https://cdn2.iconfinder.com/data/icons/computer-science-flat/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" /> CS 121 Projects 
 
 Various CS121 Projects
 
@@ -18,9 +18,9 @@ Various CS121 Projects
 - [Lab01](https://github.com/HindmanCourses/cs121-f21-lab01-pworwag)
 - [Lab02](https://github.com/HindmanCourses/cs121-f21-lab02-pworwag)
 
-### CS 221 Projects <img src="https://cdn2.iconfinder.com/data/icons/computer-science-flat/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" />
+### <img src="https://cdn2.iconfinder.com/data/icons/computer-science-flat/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" /> CS 221 Projects 
 <img src="https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png" width="125" height="50" />
 
 
-### CS 321 Projects <img src="https://cdn2.iconfinder.com/data/icons/computer-science-flat/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" />
+### <img src="https://cdn2.iconfinder.com/data/icons/computer-science-flat/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" /> CS 321 Projects 
 <img src="https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png" width="125" height="50" />
