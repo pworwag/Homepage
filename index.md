@@ -2,7 +2,7 @@
 
 This is a github page to view all the various works of Peter Worwag throughout his CS studies.
 
-### CSHU250 Projects <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="25" height="25" />
+### CSHU250 Projects <img src="https://freepikpsd.com/media/2019/11/github-logo-transparent-png-images-1.png" width="25" height="25" />
 
 Various CSHU250 Projects
 
