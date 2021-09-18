@@ -10,7 +10,7 @@ Various CSHU250 projects
 - [Hello World Page](https://github.com/pworwag/hello-world)
 
 
-### CS 121 Projects :desktop_computer:
+### CS 121 Projects <img src="https://cdn2.iconfinder.com/data/icons/computer-science-outline/60/Learn_Computer_Science-degree-computer-science-512.png" width="25" height="25" />
 
 Various CS121 Projects
 
