@@ -1,4 +1,4 @@
-## Welcome to Peter Worwag's Homepage!
+## Hello there!
 
 This is a github page to view all the various works of Peter Worwag throughout his CS studies.
 
