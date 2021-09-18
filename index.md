@@ -6,9 +6,9 @@ This is a github page to view all the various works of Peter Worwag throughout h
 
 Various CSHU250 projects
 
-```
+
 - [Hello World Page](https://github.com/pworwag/hello-world)
-```
+
 
 ### CS 121 Projects
 
