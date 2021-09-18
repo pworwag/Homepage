@@ -1,4 +1,4 @@
-## Hello there!
+![HELLO THERE](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611cd80962601633e192440ad2d23e9872aca6f92cc&rid=giphy.gif&ct=g)
 
 Welcome and enjoy your stay, please feel free to browse the below public projects.
 
