@@ -2,7 +2,7 @@
 
 Welcome and enjoy your stay, please feel free to browse the below public projects.
 
-### CSHU250 Projects <img src="https://freepikpsd.com/media/2019/11/github-logo-transparent-png-images-1.png" width="25" height="25" />
+### <img src="https://freepikpsd.com/media/2019/11/github-logo-transparent-png-images-1.png" width="25" height="25" /> CSHU250 Projects 
 
 Various CSHU250 Projects
 
